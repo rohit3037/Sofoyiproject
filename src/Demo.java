@@ -7,6 +7,7 @@ public class Demo
     public final void show()
     {
         System.out.println("hi this is final method");
+
     }
 }
 class Demo1 extends Demo
