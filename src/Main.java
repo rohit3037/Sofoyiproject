@@ -11,6 +11,10 @@ public class Main {
         in.test();
         NewInherchild nan= new NewInherchild();
          nan.set();
+         nan.R(29);
+        Const cc= new Const();
+        cc.RR(33);
+        cc.test();
 
 
 
